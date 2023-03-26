@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THA_W4_TJOK_SAVITRI", "THA_W4_TJOK_SAVITRI\THA_W4_TJOK_SAVITRI.csproj", "{EF9CD2A7-887B-4FBE-AB14-02D2E5B22D99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THA_W4_TJOK_SAVITRI", "THA_W4_TJOK_SAVITRI\THA_W4_TJOK_SAVITRI.csproj", "{1C3BF62D-9DD4-44CA-AB95-83A6DD6D4EA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF9CD2A7-887B-4FBE-AB14-02D2E5B22D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF9CD2A7-887B-4FBE-AB14-02D2E5B22D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF9CD2A7-887B-4FBE-AB14-02D2E5B22D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF9CD2A7-887B-4FBE-AB14-02D2E5B22D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3BF62D-9DD4-44CA-AB95-83A6DD6D4EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3BF62D-9DD4-44CA-AB95-83A6DD6D4EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3BF62D-9DD4-44CA-AB95-83A6DD6D4EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3BF62D-9DD4-44CA-AB95-83A6DD6D4EA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D501ABF3-1B60-48FF-B6E4-422C46CC2B08}
+		SolutionGuid = {FCE9DE14-652F-4B75-90BB-4498294CC271}
 	EndGlobalSection
 EndGlobal
