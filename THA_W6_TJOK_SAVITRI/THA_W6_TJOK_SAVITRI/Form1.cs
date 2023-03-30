@@ -152,6 +152,7 @@ namespace THA_W6_TJOK_SAVITRI
                 }
                 Product productz = new Product(idBaru, textBoxNama.Text, Convert.ToInt32(textBoxHarga.Text), Convert.ToInt32(textBoxStock.Text), idCatgor, comboBoxCategory.SelectedItem.ToString());
                 listProduct.Add(productz);
+                buttonAll.PerformClick();
                 updateList();
                 textBoxNama.Clear(); textBoxHarga.Clear(); textBoxStock.Clear(); comboBoxCategory.SelectedItem = null;
             }
