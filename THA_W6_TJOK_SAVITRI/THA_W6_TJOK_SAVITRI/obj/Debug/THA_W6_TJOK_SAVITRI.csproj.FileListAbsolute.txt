@@ -9,14 +9,3 @@ C:\! UC\Tugas Apdev\WEEK 6\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA
 C:\! UC\Tugas Apdev\WEEK 6\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.csproj.CoreCompileInputs.cache
 C:\! UC\Tugas Apdev\WEEK 6\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.exe
 C:\! UC\Tugas Apdev\WEEK 6\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.pdb
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\bin\Debug\THA_W6_TJOK_SAVITRI.exe.config
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\bin\Debug\THA_W6_TJOK_SAVITRI.exe
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\bin\Debug\THA_W6_TJOK_SAVITRI.pdb
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.csproj.AssemblyReference.cache
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.csproj.SuggestedBindingRedirects.cache
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.Form1.resources
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.Properties.Resources.resources
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.csproj.GenerateResource.cache
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.csproj.CoreCompileInputs.cache
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.exe
-C:\Users\wilbe\Downloads\App-Dev-main\App-Dev-main\THA_W6_TJOK_SAVITRI\THA_W6_TJOK_SAVITRI\obj\Debug\THA_W6_TJOK_SAVITRI.pdb

@@ -211,8 +211,6 @@ namespace THA_W6_TJOK_SAVITRI
             }
             else if (Convert.ToInt32(textBoxStock.Text) > 0)
             {
-                char a = textBoxNama.Text[0];
-                string simpan = "";
                 string idCatgor = "";
                 foreach (Product product in listProduct)
                 {
@@ -221,7 +219,6 @@ namespace THA_W6_TJOK_SAVITRI
                         idCatgor = product.idCategory;
                     }
                 }
-                int hargaBaru = Convert.ToInt32(textBoxHarga.Text);
 
                 listProduct[index].namaProduct = textBoxNama.Text;
                 listProduct[index].category = comboBoxCategory.SelectedItem.ToString();
@@ -233,8 +230,7 @@ namespace THA_W6_TJOK_SAVITRI
             {
                 listProduct.RemoveAt(index);
             }
-                
-            updateList();
+            buttonAll.PerformClick();  updateList();
             textBoxNama.Clear(); textBoxHarga.Clear(); textBoxStock.Clear(); comboBoxCategory.SelectedItem = null;
         }
         private void dgvProduct_DataBindingComplete(object sender, DataGridViewBindingCompleteEventArgs e)
@@ -248,7 +244,7 @@ namespace THA_W6_TJOK_SAVITRI
             {
                 int index = dgvProduct.CurrentCell.RowIndex;
                 listProduct.RemoveAt(index);
-                updateList();
+                buttonAll.PerformClick(); updateList();
                 textBoxNama.Clear(); textBoxHarga.Clear(); textBoxStock.Clear(); comboBoxCategory.SelectedItem = null;
             }
         }
@@ -278,7 +274,7 @@ namespace THA_W6_TJOK_SAVITRI
                     MessageBox.Show("Category sudah ada");
                 }
             }
-            updateCategory();
+            updateCategory(); buttonAll.PerformClick();
             textBoxCategory.Clear();
         }
         private void buttonRemoveCategory_Click(object sender, EventArgs e)
@@ -296,12 +292,7 @@ namespace THA_W6_TJOK_SAVITRI
                 }
                 listCategory.RemoveAt(index);
             }
-            updateCategory(); updateList(); textBoxCategory.Clear(); comboBoxCategory.SelectedItem = null;
-        }
-
-        private void textBoxNama_BackColorChanged(object sender, EventArgs e)
-        {
-            ForeColor = Color.Sienna;
+            buttonAll.PerformClick(); updateCategory(); updateList(); textBoxCategory.Clear(); comboBoxCategory.SelectedItem = null;
         }
     }
 }
